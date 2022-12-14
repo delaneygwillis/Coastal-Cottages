@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+body {font-family: 'Playfair Display', serif; background-color: white;}
+
+h1 {font-size: 32px; text-transform: uppercase;}
+
+h2 {font-size:28px;}
+
+h3 {font-size: 24px;}
+
+h4 {font-size:20px;}
+
+p {font-size: 20px;}
+
+#about_padding {padding-top: 20px; padding-bottom: 20px;}
+
+.footer {background-color:#E1DDD1; color: black; padding:50px;}
+
+.intro {padding: 50px; background-color: #4D9FE7; font-size: 50px; color: white;text-align: center;height:600px;}
+
+.space {text-transform: uppercase; padding-top: 50px;}
+
+.seperate {margin:40px;}
+
+.intro2 {padding: 200px; background-color: #4D9FE7; font-size: 50px; color: white;text-align: center; height:600px;}
+
+.intro2 h2 {font-size:80px;}
+
+#about1 {background-color:#4D9FE7; color: white; padding:50px;}
+
+#sketch {height:1000px;}
+
+#one, #two {font-size:32px;text-align: center; margin:100px; font-weight: bolder;}
+
+.navbar-expand-lg .navbar-nav .nav-link {font-family: 'Playfair Display', serif; font-size: 16px; font-weight: bold; text-transform: uppercase; color: #4D9FE7;}
+
+.card {height:500px; width:500px;}
+
+.worked {background-color: #F2EFE6;}
+
+
+
+
+
+
